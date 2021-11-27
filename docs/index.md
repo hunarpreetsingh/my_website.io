@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hunar's Profile
 
 You can use the [editor on GitHub](https://github.com/hunarpreetsingh/my_website.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
