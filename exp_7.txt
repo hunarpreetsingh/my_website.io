@@ -1,0 +1,14 @@
+create table employee(Employee_id number(10),Name char(20),Salary bigint);
+insert into employee values(1,"Hunarpreet Singh",100000),
+                           (2,"Rahul",50000),
+                           (3,"Sahil",60000),
+                           (4,"Ramesh",70000),
+                           (5,"Kritika",55000);
+select * from employee; 
+select SUM(salary) AS total_salary FROM employee;
+select MIN(salary) AS lowest_salary FROM employee;
+select MAX(salary) AS lowest_salary FROM employee;
+select AVG(salary) AS average_salary FROM employee;
+select COUNT(*) AS total_employees FROM employee;             
+select Employee_id,Name from employee where Name IN ('Rahul','Sahil');
+select Employee_id,Name from employee where Name IN  (Rahul) from  employee where salary=50000;
