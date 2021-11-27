@@ -1,5 +1,30 @@
 ## Welcome to Hunar's Profile
-### Mechanical Engineer
+#### Bio
+Completed class-12 from Dasmesh Public School Faridkot with aggregate of 82%.
+Currently doing mechanical engineering at Guru Nanak Dev Engineering College Ludhaina.
+
+#### Hobbies
+Art And Craft 
+Travelling
+Driving 
+Listening Old Songs
+
+#### Strengths
+Hardworking
+Determined
+#### Preferences
+###### Food 
+Non-veg
+###### Smartphone Brand 
+Samsung
+###### Laptop Brand 
+Hp
+###### Life-partner
+Smart 
+Understanding
+Loving
+Caring
+
 You can use the [editor on GitHub](https://github.com/hunarpreetsingh/my_website.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
